@@ -1,4 +1,2 @@
-Ranjeet Singh's Personal Website
-================================
-- Inspired by [Thibaud Guillaume-Gentil's Personal Website](http://thibaud.gg/).
+# Personal Website
 - Uses Solarized Dark Theme by [Ethan Schoonover](http://ethanschoonover.com).
